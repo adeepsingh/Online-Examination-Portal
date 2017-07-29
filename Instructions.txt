@@ -1,0 +1,6 @@
+To run the online examination portal:
+
+1. Install a working php compatible server for example, xamp.
+2. Import the project in htdocs (if runnning in xamp).
+3. Import the database in phpmyadmin.
+4. Run the project on localhost.
